@@ -19,4 +19,18 @@ I'm looking for a company where I can do my internship and grow as a mobile deve
 </br>
 
 ## Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marchdz&hide=stars,issues&count_private=true&show_icons=true&theme=transparent)
+<picture>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=marchdz&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=marchdz&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=marchdz&show_icons=true" />
+</picture>
+
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=marchdz&hide=stars,issues&count_private=true&show_icons=true&theme=transparent) -->
+
+![GitHub top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marchdz&layout=compact)
