@@ -41,5 +41,5 @@ I'm looking for a company where I can do my internship and grow as a mobile deve
 </p>
 
 ## Stats:
- [![GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=marchdz&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/marchdz/github-readme-stats#gh-dark-mode-only)
+ [![GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=marchdz&show_icons=true&theme=chartreuse-dark#gh-dark-mode-only)](https://github.com/marchdz/github-readme-stats#gh-dark-mode-only)
 [![GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=marchdz&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/marchdz/github-readme-stats#gh-light-mode-only)
