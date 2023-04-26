@@ -4,7 +4,7 @@
 
 I am currently finishing my Superior Degree in Multi-Platform Application Development and focusing mainly on native Android development with Kotlin.
 
-I'm looking for a company where I can do my internship and grow as a mobile development professional. If you are interested, please contact me by email.)
+I'm looking for a company where I can do my internship and grow as a mobile development professional. If you are interested, please contact me by email.
 
 ## Stack:
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
