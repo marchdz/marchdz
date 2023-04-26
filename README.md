@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Marc Hernández 👋</h1>
+<h1 align="center">Hi 👋, I'm Marc Hernández</h1>
 
 <h3 align="center">Student of Superior Degree in Multi-Platform Application Development</h3>
 
