@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align="center">
-  <img src ="https://github-readme-stats.vercel.app/api?username=marchdz&show_icons=true&count_private=true&theme=default&hide_border=true&    hide=issues,contribs">
+  <img src ="https://github-readme-stats.vercel.app/api?username=marchdz&show_icons=true&count_private=true&theme=default&hide_border=true&hide=issues,contribs">
 </p>
 
 <!--
@@ -18,7 +18,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<p align="center">
-  <img src ="https://github-readme-stats.vercel.app/api?username=marchdz&show_icons=true&count_private=true&theme=default&hide_border=true&    hide=issues,contribs">
-</p>
