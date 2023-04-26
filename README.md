@@ -1,4 +1,4 @@
-<h1 align="left">👋 Hi there, my name is Marc Hernández</h1>
+<h1 align="left"> Hi 🙋‍♂️, I'm Marc Hernández 👨‍💻</h1>
 
 <h3 align="left">I'm a Superior Degree in Multi-Platform Application Development student</h3>
 
