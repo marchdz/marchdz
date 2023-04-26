@@ -1,6 +1,6 @@
 <h1 align="left"> Hi 🙋‍♂️, I'm Marc Hernández 👨‍💻</h1>
 
-<h3 align="left">I'm a Superior Degree in Multi-Platform Application Development student</h3>
+<h3 align="left">Superior Degree in Multi-Platform Application Development student</h3>
 
 I'm currently finishing my Superior Degree in Multi-Platform Application Development and focusing mainly on native Android development with Kotlin.
 
@@ -25,6 +25,12 @@ I'm looking for a company where I can do my internship and grow as a mobile deve
 </div>
 
 ## Contact me:
+
+<p align="center">
+<a href="mailto:marc.hernandez.dev@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-marc.hernandez.dev@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/marc-hernandez-armengod/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Marc%20Hernández%20Armengod-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://twitter.com/marchernandez83/"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-https://twitter.com/marchernandez83-blue?style=flat-square&logo=twitter"></a>
+</p>
 
 ## Stats:
  [![GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=marchdz&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/marchdz/github-readme-stats#gh-dark-mode-only)
