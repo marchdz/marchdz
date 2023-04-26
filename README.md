@@ -4,6 +4,10 @@
   <img src ="https://github-readme-stats.vercel.app/api?username=marchdz&show_icons=true&count_private=true&theme=default&hide_border=true&hide=issues,contribs">
 </p>
 
+<a href="https://github.com/marchdz/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebaf96&layout=compact" />
+</a>
+
 <!--
 **marchdz/marchdz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
