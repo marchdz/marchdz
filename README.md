@@ -27,9 +27,9 @@ I'm looking for a company where I can do my internship and grow as a mobile deve
 ## Contact me:
 
 <p align="center">
-<a href="mailto:marc.hernandez.dev@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-marc.hernandez.dev@gmail.com-informational?style=plastic&logo=gmail" height="20" align="left"></a>
-<a href="https://www.linkedin.com/in/marc-hernandez-armengod/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Marc%20Hernández%20Armengod-informational?style=plastic&logo=linkedin" height="20"></a>
-<a href="https://twitter.com/marchernandez83/"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-@marchernandez83-informational?style=plastic&logo=twitter" height="20" align="right"></a>
+<a href="mailto:marc.hernandez.dev@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-marc.hernandez.dev@gmail.com-informational?style=plastic&logo=gmail" height="21" align="left"></a>
+<a href="https://www.linkedin.com/in/marc-hernandez-armengod/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Marc%20Hernández%20Armengod-informational?style=plastic&logo=linkedin" height="21"></a>
+<a href="https://twitter.com/marchernandez83/"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-@marchernandez83-informational?style=plastic&logo=twitter" height="21" align="right"></a>
 </p>
 
 ## Stats:
