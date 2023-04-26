@@ -33,4 +33,5 @@ I'm looking for a company where I can do my internship and grow as a mobile deve
 
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=marchdz&hide=stars,issues&count_private=true&show_icons=true&theme=transparent) -->
 
-![GitHub top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marchdz&layout=compact)
+<!-- ![GitHub top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marchdz&layout=compact)
+ -->
