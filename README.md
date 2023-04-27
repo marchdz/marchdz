@@ -1,8 +1,10 @@
-<h1 align="left"> Hi 🙋‍♂️, I'm Marc Hernández 👨‍💻</h1>
+<!-- <h1 align="left"> Hi 🙋‍♂️, I'm Marc Hernández 👨‍💻</h1> -->
 
-<h3 align="left"><ins>Superior Degree in Multi-Platform Application Development student</ins></h3>
+<!-- <h3 align="left"><ins>Superior Degree in Multi-Platform Application Development student</ins></h3> -->
 
-![](https://github.com/marchdz/marchdz/blob/main/header_github_transparent.png)
+<h1 align="left"> Hi 🙋‍♂️, I'm...</h1>
+
+![](https://github.com/marchdz/marchdz/blob/main/header_github_transparent_left.png)
 
 I'm currently finishing my Superior Degree in Multi-Platform Application Development and focusing mainly on native Android development with Kotlin.
 
