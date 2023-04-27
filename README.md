@@ -1,8 +1,11 @@
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./hi_android_robot.png" height="25px">
-  <img alt="" src="./hi_android_robot.png" height="25px">
-</picture>
+<!-- Icon & intro -->
+<h1 align="left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./hi_android_robot.png" height="25px">
+    <img alt="" src="./hi_android_robot.png" height="25px">
+  </picture>
+  Hi, I'm...
+</h1>
 
 <!-- Header picture -->
 <picture>
