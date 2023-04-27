@@ -7,8 +7,8 @@
 <h1 align="left"><img src="./hi_android_robot.png" alt="" height="25px"/> Hi, I'm...</h1>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./header_github_transparent_left.png">
-  <img alt="Marc Hernández" src="./header_github_dark_rounded.png">
+  <source media="(prefers-color-scheme: dark)" srcset="./dark_mode_header.png">
+  <img alt="Marc Hernández" src="./light_mode_header.png">
 </picture>
 
 <!-- ![](https://github.com/marchdz/marchdz/blob/main/header_github_transparent_left.png)
