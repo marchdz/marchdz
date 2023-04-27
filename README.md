@@ -4,7 +4,7 @@
 
 <!-- <h1 align="left"> Hi 🙋‍♂️, I'm...</h1> -->
 
-<h1 align="left"><img src="https://github.com/marchdz/marchdz/blob/main/hi_android_robot.png" alt="Robot waving hand" width="2.4%" height="2.4%"/> Hi, I'm...</h1>
+<h1 align="left"><img src="https://github.com/marchdz/marchdz/blob/main/hi_android_robot.png" alt="Robot waving hand" height="32px"/> Hi, I'm...</h1>
 
 
 ![](https://github.com/marchdz/marchdz/blob/main/header_github_transparent_left.png)
