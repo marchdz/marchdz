@@ -4,11 +4,15 @@
 
 <!-- <h1 align="left"> Hi 🙋‍♂️, I'm...</h1> -->
 
-<h1 align="left"><img src="https://github.com/marchdz/marchdz/blob/main/hi_android_robot.png" alt="" height="25px"/> Hi, I'm...</h1>
+<h1 align="left"><img src="./hi_android_robot.png" alt="" height="25px"/> Hi, I'm...</h1>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./header_github_transparent_left.png">
+  <img alt="Marc Hernández" src="./header_github_dark_rounded.png">
+</picture>
 
-![](https://github.com/marchdz/marchdz/blob/main/header_github_transparent_left.png)
-
+<!-- ![](https://github.com/marchdz/marchdz/blob/main/header_github_transparent_left.png)
+ -->
 I'm currently finishing my Superior Degree in Multi-Platform Application Development and focusing mainly on native Android development with Kotlin.
 
 I'm looking for a company where I can do my internship and grow as a mobile development professional.
