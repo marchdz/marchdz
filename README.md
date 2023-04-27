@@ -16,31 +16,33 @@ I'm looking for a company where I can do my internship and grow as a mobile deve
 ## Skills:
 <div>
 <!-- Android -->
-<img src="https://img.shields.io/badge/-Android-333333?style=plastic&logo=android" height="22" />
+<a href="#"><img alt="Android" src="https://img.shields.io/badge/-Android-333333?style=plastic&logo=android" height="22"></a>
 &nbsp;
 <!-- Android Studio -->
-<img src="https://img.shields.io/badge/-Android%20Studio-333333?style=plastic&logo=android-studio" height="22" />
+<a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/-Android%20Studio-333333?style=plastic&logo=android-studio" height="22"></a>
 &nbsp;
 <!-- Kotlin -->
-<img src="https://img.shields.io/badge/-Kotlin-333333?style=plastic&logo=kotlin" height="22" />
+<a href="#"><img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-333333?style=plastic&logo=kotlin" height="22"></a>
 </div>
 <p></p>
 <div>
 <!-- Firebase -->
-<img src="https://img.shields.io/badge/-Firebase-333333?style=plastic&logo=firebase" height="22" />
+<a href="#"><img alt="Firebase" src="https://img.shields.io/badge/-Firebase-333333?style=plastic&logo=firebase" height="22"></a>
 &nbsp;
 <!-- MySQL -->
-<img src="https://img.shields.io/badge/-MySQL-333333?style=plastic&logo=mysql" height="22" />
+<a href="#"><img alt="MySQL" src="https://img.shields.io/badge/-MySQL-333333?style=plastic&logo=mysql" height="22"></a>
 &nbsp;
 <!-- SQLite -->
-<img src="https://img.shields.io/badge/-SQLite-333333?style=plastic&logo=sqlite" height="22" />
+<a href="#"><img alt="SQLite" src="https://img.shields.io/badge/-SQLite-333333?style=plastic&logo=sqlite" height="22"></a>
 &nbsp;
 </div>
 <p></p>
 <div>
-<img src="https://img.shields.io/badge/-Java-333333?style=plastic&logo=java" height="22" />
+<!-- Java -->
+<a href="#"><img alt="Java" src="https://img.shields.io/badge/-Java-333333?style=plastic&logo=java" height="22"></a>
 &nbsp;
-<img src="https://img.shields.io/badge/-Python-333333?style=plastic&logo=python" height="22" />
+<!-- Python -->
+<a href="#"><img alt="Python" src="https://img.shields.io/badge/-Python-333333?style=plastic&logo=python" height="22"></a>
 </div>
 
 <!-- Contact me -->
