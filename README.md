@@ -106,20 +106,18 @@ I'm looking for a company where I can do my internship and grow as a mobile deve
 
 <!-- Stats -->
 ## Stats:
-<!-- GitHub stats-Dark -->
-<a href="https://github.com/marchdz/github-readme-stats#gh-dark-mode-only">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=marchdz&show_icons=true&theme=github_dark_dimmed&rank_icon=github&hide=stars&bg_color=0d1117&text_color=FFFFFF#gh-dark-mode-only" />
-</a>
-<!-- GitHub stats-Light -->
-<a href="https://github.com/marchdz/github-readme-stats#gh-light-mode-only">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=marchdz&show_icons=true&theme=default&rank_icon=github&hide=stars#gh-light-mode-only" />
+<!-- GitHub stats - dark & clear -->
+<a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=marchdz&show_icons=true&theme=github_dark_dimmed&rank_icon=github&hide=stars&bg_color=0d1117&text_color=FFFFFF">
+    <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=marchdz&show_icons=true&theme=default&rank_icon=github&hide=stars">
+  </picture>
 </a>
 &nbsp;
-<!-- Top Langs-Dark -->
-<a href="https://github.com/marchdz/github-readme-stats#gh-dark-mode-only">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marchdz&layout=compact&theme=github_dark_dimmed&bg_color=0d1117&text_color=FFFFFF#gh-dark-mode-only" />
-</a>
-<!-- Top Langs-Light -->
-<a href="https://github.com/marchdz/github-readme-stats#gh-light-mode-only">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marchdz&layout=compact&theme=default#gh-light-mode-only" />
+<!-- Top langs - dark & clear -->
+<a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=marchdz&layout=compact&theme=github_dark_dimmed&bg_color=0d1117&text_color=FFFFFF">
+    <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marchdz&layout=compact&theme=default">
+  </picture>
 </a>
