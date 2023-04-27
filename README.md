@@ -48,22 +48,47 @@ I'm looking for a company where I can do my internship and grow as a mobile deve
 <p></p>
 <div>
 <!-- Firebase -->
-<a href="#"><img alt="Firebase" src="https://img.shields.io/badge/-Firebase-333333?style=plastic&logo=firebase" height="22"></a>
+<a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Firebase-333333?style=plastic&logo=firebase" height="22">
+    <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-333333?style=plastic&logo=firebase" height="22">
+  </picture>
+</a>
 &nbsp;
 <!-- MySQL -->
-<a href="#"><img alt="MySQL" src="https://img.shields.io/badge/-MySQL-333333?style=plastic&logo=mysql" height="22"></a>
+<a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-MySQL-333333?style=plastic&logo=mysql" height="22">
+    <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-333333?style=plastic&logo=mysql" height="22">
+  </picture>
+</a>
 &nbsp;
 <!-- SQLite -->
-<a href="#"><img alt="SQLite" src="https://img.shields.io/badge/-SQLite-333333?style=plastic&logo=sqlite" height="22"></a>
+<a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-SQLite-333333?style=plastic&logo=sqlite" height="22">
+    <img alt="SQLite" src="https://img.shields.io/badge/-SQLite-333333?style=plastic&logo=sqlite" height="22">
+  </picture>
+</a>
 &nbsp;
 </div>
 <p></p>
 <div>
 <!-- Java -->
-<a href="#"><img alt="Java" src="https://img.shields.io/badge/-Java-333333?style=plastic&logo=java" height="22"></a>
+<a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Java-333333?style=plastic&logo=java" height="22">
+    <img alt="Java" src="https://img.shields.io/badge/-Java-333333?style=plastic&logo=java" height="22">
+  </picture>
+</a>
 &nbsp;
 <!-- Python -->
-<a href="#"><img alt="Python" src="https://img.shields.io/badge/-Python-333333?style=plastic&logo=python" height="22"></a>
+<a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Python-333333?style=plastic&logo=python" height="22">
+    <img alt="Python" src="https://img.shields.io/badge/-Python-333333?style=plastic&logo=python" height="22">
+  </picture>
+</a>
 </div>
 
 <!-- Contact me -->
