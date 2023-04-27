@@ -11,8 +11,6 @@
   <img alt="Marc Hernández" src="./light_mode_header.png">
 </picture>
 
-<!-- ![](https://github.com/marchdz/marchdz/blob/main/header_github_transparent_left.png)
- -->
 I'm currently finishing my Superior Degree in Multi-Platform Application Development and focusing mainly on native Android development with Kotlin.
 
 I'm looking for a company where I can do my internship and grow as a mobile development professional.
