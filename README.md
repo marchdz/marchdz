@@ -22,7 +22,6 @@ I'm looking for a company where I can do my internship and grow as a mobile deve
 ## Skills:
 <div>
 <!-- Android -->
-<!-- <a href="#"><img alt="Android" src="https://img.shields.io/badge/-Android-333333?style=plastic&logo=android" height="22"></a> -->
 <a>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Android-333333?style=plastic&logo=android" height="22">
@@ -31,10 +30,20 @@ I'm looking for a company where I can do my internship and grow as a mobile deve
 </a>
 &nbsp;
 <!-- Android Studio -->
-<a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/-Android%20Studio-333333?style=plastic&logo=android-studio" height="22"></a>
+<a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Android%20Studio-333333?style=plastic&logo=android-studio" height="22">
+    <img alt="Android Studio" src="https://img.shields.io/badge/-Android%20Studio-333333?style=plastic&logo=android-studio" height="22">
+  </picture>
+</a>
 &nbsp;
 <!-- Kotlin -->
-<a href="#"><img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-333333?style=plastic&logo=kotlin" height="22"></a>
+<a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Kotlin-333333?style=plastic&logo=kotlin" height="22">
+    <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-333333?style=plastic&logo=kotlin" height="22">
+  </picture>
+</a>
 </div>
 <p></p>
 <div>
