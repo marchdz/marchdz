@@ -50,5 +50,8 @@ I'm looking for a company where I can do my internship and grow as a mobile deve
 </p>
 
 ## Stats:
- [![GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=marchdz&show_icons=true&theme=github_dark_dimmed&rank_icon=github&hide=stars#gh-dark-mode-only)](https://github.com/marchdz/github-readme-stats#gh-dark-mode-only)
+ [![GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=marchdz&show_icons=true&theme=github_dark_dimmed&rank_icon=github&hide=stars&bg_color=0d1117&text_color=FFFFFF#gh-dark-mode-only)](https://github.com/marchdz/github-readme-stats#gh-dark-mode-only)
 [![GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=marchdz&show_icons=true&theme=default&rank_icon=github&hide=stars#gh-light-mode-only)](https://github.com/marchdz/github-readme-stats#gh-light-mode-only)
+
+[![Top Langs-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=github_dark_dimmed&bg_color=0d1117&text_color=FFFFFF#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Top Langs-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
