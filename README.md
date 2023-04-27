@@ -2,7 +2,10 @@
 
 <!-- <h3 align="left"><ins>Superior Degree in Multi-Platform Application Development student</ins></h3> -->
 
-<h1 align="left"> Hi 🙋‍♂️, I'm...</h1>
+<!-- <h1 align="left"> Hi 🙋‍♂️, I'm...</h1> -->
+
+<h1 align="left"><img src="https://github.com/marchdz/marchdz/blob/main/hi_android_robot.png" alt="image" width="5%" height="5%"/> Hi, I'm...</h1>
+
 
 ![](https://github.com/marchdz/marchdz/blob/main/header_github_transparent_left.png)
 
