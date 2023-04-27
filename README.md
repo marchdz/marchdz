@@ -2,7 +2,7 @@
 
 <h3 align="left"><ins>Superior Degree in Multi-Platform Application Development student</ins></h3>
 
-![](https://github.com/marchdz/marchdz/blob/main/header_github_dark_rounded.png)
+![](https://github.com/marchdz/marchdz/blob/main/header_github_transparent.png)
 
 I'm currently finishing my Superior Degree in Multi-Platform Application Development and focusing mainly on native Android development with Kotlin.
 
