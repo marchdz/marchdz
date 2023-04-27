@@ -1,13 +1,16 @@
 <!-- Icon & intro -->
 <h1 align="left"><img src="./hi_android_robot.png" alt="" height="25px"/> Hi, I'm...</h1>
+
 <!-- Header picture -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./dark_mode_header.png">
   <img alt="Marc Hernández" src="./light_mode_header.png">
 </picture>
+
 <!-- Text only -->
 I'm currently finishing my Superior Degree in Multi-Platform Application Development and focusing mainly on native Android development with Kotlin.
 I'm looking for a company where I can do my internship and grow as a mobile development professional.
+
 <!-- Skills -->
 ## Skills:
 <div>
@@ -38,6 +41,7 @@ I'm looking for a company where I can do my internship and grow as a mobile deve
 &nbsp;
 <img src="https://img.shields.io/badge/-Python-333333?style=plastic&logo=python" height="22" />
 </div>
+
 <!-- Contact me -->
 ## Contact me:
 <p align="left">
@@ -50,6 +54,7 @@ I'm looking for a company where I can do my internship and grow as a mobile deve
 <!-- Twitter -->
 <a href="https://twitter.com/marchernandez83/"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-@marchernandez83-informational?style=plastic&logo=twitter" height="21"></a>
 </p>
+
 <!-- Stats -->
 ## Stats:
 <!-- GitHub stats-Dark -->
