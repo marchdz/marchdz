@@ -68,9 +68,9 @@ I'm looking for a company where I can do my internship and grow as a mobile deve
 &nbsp;
 <!-- Top Langs-Dark -->
 <a href="https://github.com/marchdz/github-readme-stats#gh-dark-mode-only">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=github_dark_dimmed&bg_color=0d1117&text_color=FFFFFF#gh-dark-mode-only" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marchdz&layout=compact&theme=github_dark_dimmed&bg_color=0d1117&text_color=FFFFFF#gh-dark-mode-only" />
 </a>
 <!-- Top Langs-Light -->
 <a href="https://github.com/marchdz/github-readme-stats#gh-light-mode-only">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=default#gh-light-mode-only" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marchdz&layout=compact&theme=default#gh-light-mode-only" />
 </a>
