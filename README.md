@@ -117,7 +117,7 @@ I'm looking for a company where I can do my internship and grow as a mobile deve
 <!-- Top langs - dark & clear -->
 <a>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=marchdz&layout=compact&theme=github_dark_dimmed&bg_color=0d1117&text_color=FFFFFF">
-    <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marchdz&layout=compact&theme=default">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=marchdz&theme=github_dark_dimmed&bg_color=0d1117&text_color=FFFFFF">
+    <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marchdz&theme=default">
   </picture>
 </a>
