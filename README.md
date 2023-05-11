@@ -44,17 +44,18 @@ I'm looking for a company where I can do my internship and grow as a mobile deve
     <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-333333?style=plastic&logo=kotlin" height="22">
   </picture>
 </a>
+&nbsp;
 </div>
 <p></p>
 <div>
 <!-- Firebase -->
-<a>
+<!-- <a>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Firebase-333333?style=plastic&logo=firebase" height="22">
     <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-333333?style=plastic&logo=firebase" height="22">
   </picture>
 </a>
-&nbsp;
+&nbsp; -->
 <!-- MySQL -->
 <a>
   <picture>
@@ -70,26 +71,26 @@ I'm looking for a company where I can do my internship and grow as a mobile deve
     <img alt="SQLite" src="https://img.shields.io/badge/-SQLite-333333?style=plastic&logo=sqlite" height="22">
   </picture>
 </a>
-&nbsp;
+<!-- &nbsp;
 </div>
 <p></p>
-<div>
+<div> -->
 <!-- Java -->
-<a>
+<!--<a>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Java-333333?style=plastic&logo=java" height="22">
     <img alt="Java" src="https://img.shields.io/badge/-Java-333333?style=plastic&logo=java" height="22">
   </picture>
 </a>
-&nbsp;
+&nbsp; -->
 <!-- Python -->
-<a>
+<!--<a>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Python-333333?style=plastic&logo=python" height="22">
     <img alt="Python" src="https://img.shields.io/badge/-Python-333333?style=plastic&logo=python" height="22">
   </picture>
 </a>
-</div>
+</div> -->
 
 <!-- Contact me -->
 ## Contact me:
