@@ -102,8 +102,8 @@ I'm looking for a company where I can do my internship and grow as a mobile deve
 <a href="https://www.linkedin.com/in/marc-hernandez-armengod/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Marc%20Hernández%20Armengod-informational?style=plastic&logo=linkedin" height="21"></a>
 &nbsp;
 <!-- Twitter -->
-<a href="https://twitter.com/marchernandez83/"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-@marchernandez83-informational?style=plastic&logo=twitter" height="21"></a>
-</p>
+<!--<a href="https://twitter.com/marchernandez83/"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-@marchernandez83-informational?style=plastic&logo=twitter" height="21"></a>
+</p> -->
 
 <!-- Stats -->
 ## Stats:
