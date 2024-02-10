@@ -48,6 +48,14 @@ I'm looking for a company where I can do my internship and grow as a mobile deve
 </div>
 <p></p>
 <div>
+<!-- Jetpack Compose -->
+<a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Jetpack Compose-333333?style=plastic&logo=jetpackcompose" height="22">
+    <img alt="Jetpack Compose" src="https://img.shields.io/badge/-Jetpack Compose-333333?style=plastic&logo=jetpackcompose" height="22">
+  </picture>
+</a>
+&nbsp;
 <!-- Firebase -->
 <!-- <a>
   <picture>
