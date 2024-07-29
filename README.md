@@ -14,7 +14,7 @@
 </picture>
 
 <!-- Text only -->
-I'm currently finishing my Superior Degree in Multi-Platform Application Development and focusing mainly on native Android development with Kotlin.
+Junior mobile developer focusing mainly on native Android development with Kotlin.
 
 <!-- Skills -->
 ## Skills:
@@ -40,6 +40,14 @@ I'm currently finishing my Superior Degree in Multi-Platform Application Develop
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Kotlin-333333?style=plastic&logo=kotlin" height="22">
     <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-333333?style=plastic&logo=kotlin" height="22">
+  </picture>
+</a>
+&nbsp;
+<!-- Java -->
+<a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Java-333333?style=plastic&logo=java" height="22">
+    <img alt="Java" src="https://img.shields.io/badge/-Java-333333?style=plastic&logo=java" height="22">
   </picture>
 </a>
 &nbsp;
@@ -77,26 +85,6 @@ I'm currently finishing my Superior Degree in Multi-Platform Application Develop
     <img alt="SQLite" src="https://img.shields.io/badge/-SQLite-333333?style=plastic&logo=sqlite" height="22">
   </picture>
 </a>
-<!-- &nbsp;
-</div>
-<p></p>
-<div> -->
-<!-- Java -->
-<!--<a>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Java-333333?style=plastic&logo=java" height="22">
-    <img alt="Java" src="https://img.shields.io/badge/-Java-333333?style=plastic&logo=java" height="22">
-  </picture>
-</a>
-&nbsp; -->
-<!-- Python -->
-<!--<a>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Python-333333?style=plastic&logo=python" height="22">
-    <img alt="Python" src="https://img.shields.io/badge/-Python-333333?style=plastic&logo=python" height="22">
-  </picture>
-</a>
-</div> -->
 
 <!-- Contact me -->
 ## Contact me:
