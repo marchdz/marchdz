@@ -63,13 +63,13 @@ Junior mobile developer focusing mainly on native Android development with Kotli
 </a>
 &nbsp;
 <!-- Firebase -->
-<!-- <a>
+<a>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Firebase-333333?style=plastic&logo=firebase" height="22">
     <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-333333?style=plastic&logo=firebase" height="22">
   </picture>
 </a>
-&nbsp; -->
+&nbsp;
 <!-- MySQL -->
 <a>
   <picture>
