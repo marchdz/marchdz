@@ -4,7 +4,7 @@
     <source media="(prefers-color-scheme: dark)" srcset="./hi_android_robot.png" height="25">
     <img alt="" src="./hi_android_robot.png" height="25">
   </picture>
-  Hi, I'm...
+  Hi, I am...
 </h1>
 
 <!-- Header picture -->
