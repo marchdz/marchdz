@@ -14,7 +14,7 @@
 </picture>
 
 <!-- Text only -->
-Junior mobile developer focusing mainly on native Android development with Kotlin.
+Android developer interested in native Android development (both with XML views and Jetpack Compose) and cross-platform development with Compose Multiplatform and Kotlin Multiplatform.
 
 <!-- Skills -->
 ## Skills:
