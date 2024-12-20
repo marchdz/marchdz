@@ -14,8 +14,9 @@
 </picture>
 
 <!-- Text only -->
-Android App Developer specializing in native Android development using both XML and Jetpack Compose.<br />
+Software developer specializing in native Android development using both XML and Jetpack Compose.<br/>
 Passionate about cross-platform development with Compose Multiplatform and Kotlin Multiplatform.
+
 <!-- Skills -->
 ## Skills:
 <div>
