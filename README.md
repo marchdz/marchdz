@@ -229,7 +229,7 @@ Passionate about cross-platform development with Compose Multiplatform and Kotli
 <a href="https://www.linkedin.com/in/marc-hernandez-armengod/">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LinkedIn-Marc%20Hernández%20Armengod-informational?style=plastic&logo=linkedin&logoColor=2f80ed&color=2f80ed" height="22">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn:-Marc%20Hernández%20Armengod-informational?style=plastic&logo=linkedin&labelColor=f6f8fa&logoColor=2f80ed&color=2f80ed" height="21">\
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-in%2Fmarc%E2%80%93hernandez%E2%80%93armengod-informational?style=plastic&logo=linkedin&labelColor=f6f8fa&logoColor=2f80ed&color=2f80ed" height="21">\
   </picture>
 </a>
 &nbsp;
