@@ -54,7 +54,7 @@ Passionate about cross-platform development with Compose Multiplatform and Kotli
 <!-- Gradle -->
 <a>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Gradle-333333?style=plastic&logo=gradle&logoColor=032f3c" height="22">
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Gradle-333333?style=plastic&logo=gradle" height="22">
     <img alt="Gradle" src="https://img.shields.io/badge/-Gradle-333333?style=plastic&logo=gradle&color=f6f8fa&logoColor=032f3c" height="22">
   </picture>
 </a>
