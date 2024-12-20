@@ -47,45 +47,172 @@ I am also passionate about cross-platform development using Compose Multiplatfor
 <!-- Java -->
 <a>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Java-333333?style=plastic&logo=java" height="22">
-    <img alt="Java" src="https://img.shields.io/badge/-Java-333333?style=plastic&logo=java" height="22">
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Java-333333?style=plastic&logo=openjdk" height="22">
+    <img alt="Java" src="https://img.shields.io/badge/-Java-333333?style=plastic&logo=openjdk" height="22">
+  </picture>
+</a>
+&nbsp;
+<!-- Gradle -->
+<a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Gradle-333333?style=plastic&logo=gradle" height="22">
+    <img alt="Gradle" src="https://img.shields.io/badge/-Gradle-333333?style=plastic&logo=gradle" height="22">
   </picture>
 </a>
 &nbsp;
 </div>
 <p></p>
+
 <div>
 <!-- Jetpack Compose -->
 <a>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Jetpack Compose-333333?style=plastic&logo=jetpackcompose" height="22">
-    <img alt="Jetpack Compose" src="https://img.shields.io/badge/-Jetpack Compose-333333?style=plastic&logo=jetpackcompose" height="22">
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Jetpack%20Compose-333333?style=plastic&logo=jetpackcompose" height="22">
+    <img alt="Jetpack Compose" src="https://img.shields.io/badge/-Jetpack%20Compose-333333?style=plastic&logo=jetpackcompose" height="22">
   </picture>
 </a>
 &nbsp;
-<!-- Firebase -->
+<!-- Compose Multiplatform -->
 <a>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Firebase-333333?style=plastic&logo=firebase" height="22">
-    <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-333333?style=plastic&logo=firebase" height="22">
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Compose%20Multiplatform-333333?style=plastic&logo=jetpackcompose" height="22">
+    <img alt="Compose Multiplatform" src="https://img.shields.io/badge/-Compose%20Multiplatform-333333?style=plastic&logo=jetpackcompose" height="22">
   </picture>
 </a>
 &nbsp;
-<!-- MySQL -->
+<!-- Kotlin Multiplatform -->
 <a>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-MySQL-333333?style=plastic&logo=mysql" height="22">
-    <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-333333?style=plastic&logo=mysql" height="22">
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Kotlin%20Multiplatform-333333?style=plastic&logo=kotlin" height="22">
+    <img alt="Kotlin Multiplatform" src="https://img.shields.io/badge/-Kotlin%20Multiplatform-333333?style=plastic&logo=kotlin" height="22">
   </picture>
 </a>
 &nbsp;
-<!-- SQLite -->
+</div>
+<p></p>
+
+<div>
+<!-- Hilt -->
 <a>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-SQLite-333333?style=plastic&logo=sqlite" height="22">
-    <img alt="SQLite" src="https://img.shields.io/badge/-SQLite-333333?style=plastic&logo=sqlite" height="22">
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Hilt-333333?style=plastic" height="22">
+    <img alt="Hilt" src="https://img.shields.io/badge/-Hilt-333333?style=plastic" height="22">
   </picture>
 </a>
+&nbsp;
+<!-- Koin -->
+<a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Koin-333333?style=plastic" height="22">
+    <img alt="Koin" src="https://img.shields.io/badge/-Koin-333333?style=plastic" height="22">
+  </picture>
+</a>
+&nbsp;
+<!-- Room -->
+<a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Room-333333?style=plastic" height="22">
+    <img alt="Room" src="https://img.shields.io/badge/-Room-333333?style=plastic" height="22">
+  </picture>
+</a>
+&nbsp;
+<!-- OkHttp -->
+<a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-OkHttp-333333?style=plastic" height="22">
+    <img alt="OkHttp" src="https://img.shields.io/badge/-OkHttp-333333?style=plastic" height="22">
+  </picture>
+</a>
+&nbsp;
+<!-- Retrofit -->
+<a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Retrofit-333333?style=plastic" height="22">
+    <img alt="Retrofit" src="https://img.shields.io/badge/-Retrofit-333333?style=plastic" height="22">
+  </picture>
+</a>
+&nbsp;
+<!-- Ktor -->
+<a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Ktor-333333?style=plastic" height="22">
+    <img alt="Ktor" src="https://img.shields.io/badge/-Ktor-333333?style=plastic" height="22">
+  </picture>
+</a>
+&nbsp;
+<!-- Picasso -->
+<a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Picasso-333333?style=plastic" height="22">
+    <img alt="Picasso" src="https://img.shields.io/badge/-Picasso-333333?style=plastic" height="22">
+  </picture>
+</a>
+&nbsp;
+<!-- Glide -->
+<a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Glide-333333?style=plastic" height="22">
+    <img alt="Glide" src="https://img.shields.io/badge/-Glide-333333?style=plastic" height="22">
+  </picture>
+</a>
+&nbsp;
+<!-- Coil -->
+<a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Coil-333333?style=plastic" height="22">
+    <img alt="Coil" src="https://img.shields.io/badge/-Coil-333333?style=plastic" height="22">
+  </picture>
+</a>
+&nbsp;
+</div>
+<p></p>
+
+<div>
+<!-- Git -->
+<a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Git-333333?style=plastic&logo=git" height="22">
+    <img alt="Git" src="https://img.shields.io/badge/-Git-333333?style=plastic&logo=git" height="22">
+  </picture>
+</a>
+&nbsp;
+<!-- GitHub -->
+<a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-GitHub-333333?style=plastic&logo=github" height="22">
+    <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-333333?style=plastic&logo=github" height="22">
+  </picture>
+</a>
+&nbsp;
+<!-- GitLab -->
+<a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-GitLab-333333?style=plastic&logo=gitlab" height="22">
+    <img alt="GitLab" src="https://img.shields.io/badge/-GitLab-333333?style=plastic&logo=gitlab" height="22">
+  </picture>
+</a>
+&nbsp;
+</div>
+<p></p>
+
+<div>
+<!-- Confluence -->
+<a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Confluence-333333?style=plastic&logo=confluence" height="22">
+    <img alt="Confluence" src="https://img.shields.io/badge/-Confluence-333333?style=plastic&logo=confluence" height="22">
+  </picture>
+</a>
+&nbsp;
+<!-- Postman -->
+<a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Postman-333333?style=plastic&logo=postman" height="22">
+    <img alt="Postman" src="https://img.shields.io/badge/-Postman-333333?style=plastic&logo=postman" height="22">
+  </picture>
+</a>
+&nbsp;
+</div>
 
 <!-- Contact me -->
 ## Contact me:
