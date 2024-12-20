@@ -14,8 +14,7 @@
 </picture>
 
 <!-- Text only -->
-Software developer specializing in native Android development using both XML and Jetpack Compose.<br/>
-Passionate about cross-platform development with Compose Multiplatform and Kotlin Multiplatform.
+Software developer specialized in native Android development (both with XML views and Jetpack Compose) and cross-platform development with Compose Multiplatform and Kotlin Multiplatform.
 
 <!-- Skills -->
 ## Skills:
