@@ -220,7 +220,7 @@ Software developer specialized in native Android development (both with XML view
 <a href="mailto:marc.hernandez.dev@gmail.com">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Email-marc.hernandez.dev@gmail.com-informational?style=plastic&logo=gmail&color=2f80ed" height="22">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/Email-marc.hernandez.dev@gmail.com-informational?style=plastic&logo=gmail&labelColor=f6f8fa&color=2f80ed" height="22">\
+    <img alt="Email" src="https://img.shields.io/badge/Email-marc.hernandez.dev@gmail.com-informational?style=plastic&logo=gmail&labelColor=f6f8fa&color=2f80ed" height="22">
   </picture>
 </a>
 &nbsp;
@@ -228,10 +228,9 @@ Software developer specialized in native Android development (both with XML view
 <a href="https://www.linkedin.com/in/marc-hernandez-armengod/">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LinkedIn-in%2Fmarc%E2%80%93hernandez%E2%80%93armengod-informational?style=plastic&logo=linkedin&logoColor=2f80ed&color=2f80ed" height="22">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-in%2Fmarc%E2%80%93hernandez%E2%80%93armengod-informational?style=plastic&logo=linkedin&labelColor=f6f8fa&logoColor=2f80ed&color=2f80ed" height="22">\
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-in%2Fmarc%E2%80%93hernandez%E2%80%93armengod-informational?style=plastic&logo=linkedin&labelColor=f6f8fa&logoColor=2f80ed&color=2f80ed" height="22">
   </picture>
 </a>
-&nbsp;
 </p>
 
 <!-- Stats -->
