@@ -134,8 +134,8 @@ Software developer specialized in native Android development (both with XML view
 <!-- Ktor -->
 <a>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Ktor-333333?style=plastic" height="22">
-    <img alt="Ktor" src="https://img.shields.io/badge/-Ktor-333333?style=plastic&color=f6f8fa" height="22">
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Ktor-333333?style=plastic&logo=ktor" height="22">
+    <img alt="Ktor" src="https://img.shields.io/badge/-Ktor-333333?style=plastic&logo=ktor&color=f6f8fa" height="22">
   </picture>
 </a>
 &nbsp;
